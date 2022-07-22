@@ -14,7 +14,7 @@ export default function Contacts(){
             </S.Aba1>
             <S.Abas>
             <S.AbasDecoração>
-            <S.Text href="https://desafio-de-selecao.netlify.app/">Desafio Técnico</S.Text>
+            <S.Text href="https://62db05c90a983d00b01f4ac4--deluxe-sawine-e973a6.netlify.app/">Desafio Técnico</S.Text>
             </S.AbasDecoração>
             </S.Abas>
             <S.Abas>

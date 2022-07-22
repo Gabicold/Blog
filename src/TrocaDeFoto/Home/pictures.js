@@ -5,7 +5,6 @@ import * as S from "./styles"
 export default function Pictures(){
 
     const [Foto, setFoto] = useState(`${Galinha}`)
-    const [bolean, setBolean] = useState()
 
     const trocar = ()=>{
         if( Foto === `${Galinha}`){
